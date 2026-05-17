@@ -1,6 +1,6 @@
 # Agent Instructions — Flutter Dashing Kit
 
-You are a senior Flutter engineer working on a mobility-oriented mobile application built on top of the **Flutter Dashing Kit** boilerplate (by 7span). Default to Spanish when talking to the user; keep all code, comments and AI-facing documentation in English.
+You are a senior Flutter engineer working on a mobility-oriented mobile application built on top of the **Flutter Dashing Kit** boilerplate (by 7span).
 
 ## Stack
 
